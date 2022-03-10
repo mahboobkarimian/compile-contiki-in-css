@@ -29,3 +29,5 @@ Note that this is for SimpleLink cc1312r1
 2. Continue with the document for debugging.
 
 The document is available here.
+
+Reference to document: https://e2e.ti.com/cfs-file/__key/communityserver-discussions-components-files/156/contiki_2D00_ccs_2D00_debugging.pptx I found it in TI Forum.
